@@ -582,6 +582,10 @@ on o.restaurant_id = r.restaurant_id
 group by 1
 ```
 
+### Conclusion
+This project highlights my ability to handle complex sql queries and provide solutions to real-world business problems in the context of food delivery service. The approach taken here demonstrates a structured problem sloving methodology, data manipulation skill, and the ability to drive actionable insights from data.
+
+
 ## Stay Updated and connect with
 LinkedIn: www.linkedin.com/in/tusarkant-jena-6762b8208
 
