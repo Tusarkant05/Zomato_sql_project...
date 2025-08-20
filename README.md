@@ -580,7 +580,7 @@ on o.restaurant_id = r.restaurant_id
 group by 1
 ```
 
-## Stay Updated and Join the Community
+## Stay Updated and connect with
 LinkedIn: www.linkedin.com/in/tusarkant-jena-6762b8208
 
 Email-id: jtusarkant@gmail.com
