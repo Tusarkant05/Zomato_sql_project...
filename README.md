@@ -4,6 +4,8 @@
 
 This project demonstrates my sql problem solving skills through the analysis of data for zomato, a popular food delivery company in india. The project involves setting up the database, importing database, erase null values, and solving variety of business problems using complex SQL quries.
 
+![ERD](https://github.com/Tusarkant05/Zomato_sql_project.../blob/main/ERD.png)
+
 ## Project Structure
 
 - Database setup: creating of the 'Zomato_db' database and the required tables.
